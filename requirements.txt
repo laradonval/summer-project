@@ -1,2 +1,5 @@
 astropy
 matplotlib
+ipywidgets
+jupyter
+plotly
